@@ -1,0 +1,18 @@
+[
+null,
+{"id":1,"expanded":true,"name":"オープニング","order":1,"parentId":0,"scrollX":627,"scrollY":340.5},
+{"id":2,"expanded":false,"name":"ミスト王国","order":2,"parentId":1,"scrollX":2112,"scrollY":3200.5,"quick":false},
+{"id":3,"expanded":false,"name":"魔王城 牢屋","order":3,"parentId":0,"scrollX":619,"scrollY":340.5,"quick":false},
+{"id":4,"expanded":false,"name":"魔王城 B1","order":4,"parentId":0,"scrollX":721,"scrollY":632.5,"quick":false},
+{"id":5,"expanded":false,"name":"魔王城 スラミィの部屋","order":5,"parentId":0,"scrollX":627,"scrollY":340.5,"quick":false},
+{"id":6,"expanded":false,"name":"魔王城 1Fへ続く階段","order":6,"parentId":0,"scrollX":813,"scrollY":1091.5,"quick":false},
+{"id":7,"expanded":false,"name":"魔王城 1F","order":7,"parentId":0,"scrollX":1213,"scrollY":590.5,"quick":false},
+{"id":8,"expanded":false,"name":"魔王城 1F廊下左","order":8,"parentId":0,"scrollX":813,"scrollY":866.5,"quick":false},
+{"id":9,"expanded":false,"name":"魔王城 1FB1の開かずの間の鍵の部屋","order":9,"parentId":0,"scrollX":619,"scrollY":340.5,"quick":false},
+{"id":10,"expanded":false,"name":"魔王城 B1書斎","order":10,"parentId":0,"scrollX":627,"scrollY":340.5,"quick":false},
+{"id":11,"expanded":false,"name":"魔王城 B1右","order":11,"parentId":0,"scrollX":813,"scrollY":746.5,"quick":false},
+{"id":12,"expanded":false,"name":"魔王城 2F","order":12,"parentId":0,"scrollX":1246,"scrollY":1178.5,"quick":false},
+{"id":13,"expanded":false,"name":"魔王城 ドランク様の部屋","order":13,"parentId":0,"scrollX":627,"scrollY":340.5,"quick":false},
+{"id":14,"expanded":false,"name":"魔王城 1Fモンスターハウス","order":14,"parentId":0,"scrollX":1584,"scrollY":1728.5,"quick":false},
+{"id":15,"expanded":false,"name":"魔王城 最深部","order":15,"parentId":0,"scrollX":619,"scrollY":340.5,"quick":false}
+]

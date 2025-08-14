@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Actor_with_04","characterIndex":3,"characterName":"Actor1_with","classId":1,"equips":[2,0,0,2,0],"faceIndex":3,"faceName":"Actor1_with","traits":[],"initialLevel":1,"maxLevel":99,"name":"ミスト","nickname":"姫騎士","note":"","profile":"ミスト王国のお姫様。\nかなりの美人だ。"},
+{"id":2,"battlerName":"Actor_with_01","characterIndex":0,"characterName":"Actor1_with","classId":4,"equips":[1,0,0,4,0],"faceIndex":0,"faceName":"Actor1_with","traits":[],"initialLevel":1,"maxLevel":99,"name":"シルバー","nickname":"勇者","note":"","profile":"剣士であり、勇者でもある男。\n「自称」勇者ではあるが、実力はまあまあある。"},
+{"id":3,"battlerName":"Actor_with_06","characterIndex":5,"characterName":"Actor1_with","classId":2,"equips":[10,0,0,3,0],"faceIndex":5,"faceName":"Actor1_with","traits":[],"initialLevel":1,"maxLevel":99,"name":"エムブラ","nickname":"魔導士","note":"","profile":"アルフ村からやってきた魔導士。\nまだまだ見習いで、うまく魔法を扱うことが出来ない。"},
+{"id":4,"battlerName":"Actor_with_05","characterIndex":4,"characterName":"Actor1_with","classId":3,"equips":[8,0,0,5,0],"faceIndex":4,"faceName":"Actor1_with","traits":[],"initialLevel":1,"maxLevel":99,"name":"ウェイブ","nickname":"魔法戦士","note":"","profile":"アルフ村の魔法戦士。\nエムブラとは違い、戦闘力はそれなりにある。"}
+]
